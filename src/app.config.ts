@@ -1,7 +1,7 @@
 export default {
   pages: [
     "pages/index/index",
-    "pages/Icon",
+    "pages/IconView",
     "pages/coverView",
     "pages/movableView",
     "pages/Swiper"
