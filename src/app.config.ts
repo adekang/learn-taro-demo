@@ -1,7 +1,8 @@
 export default {
   pages: [
     "pages/index/index", 
-    "pages/coverview"
+    "pages/coverview",
+    "pages/movableview"
   ],
   window: {
     backgroundTextStyle: "light",
