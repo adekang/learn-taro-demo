@@ -8,7 +8,6 @@ export default () => {
   return (
     <View className='components-page'>
       <Icon size='60' type='success' />
-      <View>成功</View>
       <Icon size='60' type='info' />
       <Icon size='60' type='warn' color='#ccc' />
       <Icon size='60' type='warn' />

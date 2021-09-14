@@ -4,7 +4,8 @@ export default {
     "pages/IconView",
     "pages/coverView",
     "pages/movableView",
-    "pages/Swiper"
+    "pages/Swiper",
+    "pages/demo",
   ],
   window: {
     backgroundTextStyle: "light",
