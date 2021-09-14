@@ -6,6 +6,7 @@ export default {
     "pages/movableView",
     "pages/Swiper",
     "pages/demo",
+    "pages/Progress"
   ],
   window: {
     backgroundTextStyle: "light",
